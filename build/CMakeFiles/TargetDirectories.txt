@@ -1,0 +1,3 @@
+/home/kokosu/gfx-framework/build/CMakeFiles/rebuild_cache.dir
+/home/kokosu/gfx-framework/build/CMakeFiles/edit_cache.dir
+/home/kokosu/gfx-framework/build/CMakeFiles/GFXFramework.dir

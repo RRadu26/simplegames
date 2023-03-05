@@ -1,0 +1,5 @@
+This is a framework used for Computer Graphics Elements course at ACS-UPB
+	All the laboratories and homework code can be found in ./src/lab_m1
+The main projects are Tema1 - a 2D copy of the famous Duck Hunt game
+		      Tema2 - a 3D racing game
+		      Tema2_Gen_Map - a tool used to create maps for Tema2
