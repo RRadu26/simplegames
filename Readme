@@ -3,3 +3,4 @@ This is a framework used for Computer Graphics Elements course at ACS-UPB
 The main projects are Tema1 - a 2D copy of the famous Duck Hunt game
 		      Tema2 - a 3D racing game
 		      Tema2_Gen_Map - a tool used to create maps for Tema2
+Those projects were made using c++ with OPENGL
